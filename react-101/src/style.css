@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    margin: auto;
+    width: 550px;
+    height: 868px;
+}
+.main-body{
+    background-color: #1A1B21;
+    width: 317px;
+    margin-left: 20%;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.container-about{
+    width: 317px;
+    background-color: #1A1B21;
+    border-radius: 10px;
+}
+.main-image{
+    height: 317px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.container-about h3{
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 21px;
+    margin-bottom: 0;
+    text-align: center;
+}
+.container-about p {
+    color: #F3BF99;
+    font-size: 12.8px;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 6.19px;
+}
+.website{
+    color: #F5F5F5;
+    font-size: 10.24px;
+    text-align: center;
+    margin-top: 8.81px;
+}
+.button-wrapper{
+    width: 317px;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.text-wrapper{
+    display: flex;
+    padding: 10px 28px;
+}
+.text-wrapper img{
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+}
+.email-wrapper{
+    background-color: #FFFFFF;
+    margin-left: 35px;
+    color: #374151;
+    font-size: 14px;
+    border: none;
+    border-radius: 6px
+}
+.linkedln-wrapper{
+    background-color: #5093E2;
+    margin-right: 35px;
+    color: #FFFFFF;
+    font-size: 14px;
+    border: none;
+    border-radius: 6px;
+    margin-left: 17px
+}
+.container-info{
+    width: 317px;
+    background-color: #1A1B21;
+    padding-left: 20px;
+    padding-right: 34px;
+    margin-bottom: 0;
+    margin-top: 0;    
+    padding-top: 0;
+}
+.container-info h4{
+    font-size: 16px;
+    font-weight: bold;
+    color: #F5F5F5;
+    margin-bottom: 0;
+}
+.container-info p{
+    color: #DCDCDC;
+    width: 247px;    
+    font-size: 10.24px
+}
+.container-footer{
+    width: 317px;
+    background-color: #161619;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.container-footer img{
+    margin-right: 24px;
+}
